@@ -1,2 +1,2 @@
 # CCRover
-files for the CombatCraft Rover project
+Files for the CombatCraft Rover project.
